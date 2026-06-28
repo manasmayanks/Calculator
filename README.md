@@ -51,7 +51,7 @@ Add a screenshot of your calculator here after completing the project.
 
 **Manas Mayank**
 
-GitHub: https://github.com/manasmayank76
+GitHub: https://github.com/manasmayanks
 
 ---
 
